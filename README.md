@@ -1,5 +1,7 @@
 # MovieMate
 
+[Get your recommendations from here!](https://mymoviemate.streamlit.app/)
+
 ## Overview
 
 Welcome to MovieMate, your go-to movie companion! MovieMate is a powerful movie recommender system built using Streamlit and integrated with APIs from IMDb and TMDb. This application provides an immersive and user-friendly experience for discovering similar movies.
